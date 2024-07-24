@@ -72,7 +72,7 @@ Also, I learned how to set an adaptive circular components.
 
 ### Useful resources
 
-- [Example resource 1](https://getbootstrap.com/) - Responsive layout and other helpful Class
+- [Bootstrap](https://getbootstrap.com/) - Responsive layout and other helpful Class
 
 
 ## Author
